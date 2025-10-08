@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 Hi, I'm Pranjali Vishwakarma
+
+🎶 **Musician** | 💻 **AI/ML Engineer** | ✨ **Design Enthusiast**
+
+I'm an engineering student specializing in **AI & Machine Learning**, with a deep love for **music** and **human-centered design**. I enjoy exploring how creativity and technology can come together to build meaningful experiences.
+
+This space is where I document my journey — from learning to building. More coming soon 🚀
 
 <!--
 **Pranjali-Vishwakarma/Pranjali-Vishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
